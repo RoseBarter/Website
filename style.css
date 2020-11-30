@@ -1,0 +1,42 @@
+/*Website Styles*/
+
+* {
+  font-size: 100%;
+}
+
+body {
+  color: rgb(178, 34, 34);
+  font-size: 14px;
+  background-color: papayawhip;
+}
+
+h1 {
+  color: blue;
+  font-family: 'Nanum Gothic', sans-serif;
+}
+
+h2 {
+  color:navy;
+  font-family: 'Nanum Gothic', sans-serif;
+}
+
+p {
+  font-size: 18px;
+  color: black;
+  font-family: 'Nanum Gothic', sans-serif;
+}
+
+header {
+  color: green;
+  font-family: 'Nanum Gothic', sans-serif;
+}
+
+section {
+  color: blood;
+  font-family: 'PT Serif', serif;
+}
+
+footer {
+  color:purple;
+  font-family: 'PT Serif', serif;
+}
